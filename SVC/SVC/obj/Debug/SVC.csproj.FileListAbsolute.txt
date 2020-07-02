@@ -1,0 +1,17 @@
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\SVC.exe.config
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\SVC.exe
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\SVC.pdb
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.Form1.resources
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.exe
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.pdb
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\DarrenLee.LiveStream.dll
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\NAudio.dll
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\bin\Debug\NSpeex.dll
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.Rozmowa.resources
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.csproj.CopyComplete
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.Dialog.resources
+C:\Users\Konrad\Desktop\Telefonia_IP\SVC\SVC\obj\Debug\SVC.Interfejs.resources
