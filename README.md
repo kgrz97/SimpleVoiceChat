@@ -1,4 +1,4 @@
-# SimpleVoiceChat
+# <img src="SVC_icon.png" width="70" height="68"/> SimpleVoiceChat
 
 SVC is an app allows to communicate with another user. 
 
