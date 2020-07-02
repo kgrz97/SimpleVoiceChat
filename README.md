@@ -2,7 +2,7 @@
 
 SVC is an app allows to communicate with another user. 
 
-App is wrote in C# using Windows Forms.
+App is written in C# using Windows Forms.
 
 The app is intended for voice communication using devices operating within one network.
 
